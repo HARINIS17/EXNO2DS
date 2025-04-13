@@ -39,8 +39,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
          ![Screenshot 2025-04-11 212258](https://github.com/user-attachments/assets/0bb804d4-06f9-44c1-9e1e-fb0203fbaff0)
          ![Screenshot 2025-04-11 212305](https://github.com/user-attachments/assets/12b1db0b-4755-4b5c-88eb-d59d3b2f7004)
          ![Screenshot 2025-04-11 212312](https://github.com/user-attachments/assets/f5a2951f-166e-4d0e-b399-ea7601b3eb82)
-         ![Screenshot 2025-04-11 212325](https://github.com/user-attachments/assets/4222ae1b-90e2-48f5-8c2d-daf27e3000ea)
-         ![Screenshot 2025-04-11 212340](https://github.com/user-attachments/assets/47b9de0d-3080-44cd-8c38-d761d09fa191)
+         ![Screenshot 2025-04-13 122035](https://github.com/user-attachments/assets/d7b3bdc7-c426-45fe-b979-2025cc3329fc)
+         ![Screenshot 2025-04-13 121812](https://github.com/user-attachments/assets/f53a2214-b020-4d4c-a6e1-0cd351b199f9)
          ![Screenshot 2025-04-11 212348](https://github.com/user-attachments/assets/fffe8602-16c4-4ba8-bcfc-0b7ed0b9349b)
          ![Screenshot 2025-04-11 212354](https://github.com/user-attachments/assets/437315ac-a97a-4bba-9cfd-d684aecfbd31)
          ![Screenshot 2025-04-11 212404](https://github.com/user-attachments/assets/5ae36741-7bf6-4e55-a58c-d0106c035c6d)
@@ -48,21 +48,5 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# RESULT
-
+# RESULT:
+Hence the exploratory data analysis on the given data set is performed sucessfully.
